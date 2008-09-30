@@ -1,1 +1,3 @@
-some text:
+some text
+
+line 3!
